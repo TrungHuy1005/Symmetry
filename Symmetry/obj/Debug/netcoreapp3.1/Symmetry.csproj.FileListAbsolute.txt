@@ -1,0 +1,14 @@
+C:\Users\trung\source\repos\Symmetry\Symmetry\bin\Debug\netcoreapp3.1\Symmetry.exe
+C:\Users\trung\source\repos\Symmetry\Symmetry\bin\Debug\netcoreapp3.1\Symmetry.deps.json
+C:\Users\trung\source\repos\Symmetry\Symmetry\bin\Debug\netcoreapp3.1\Symmetry.runtimeconfig.json
+C:\Users\trung\source\repos\Symmetry\Symmetry\bin\Debug\netcoreapp3.1\Symmetry.runtimeconfig.dev.json
+C:\Users\trung\source\repos\Symmetry\Symmetry\bin\Debug\netcoreapp3.1\Symmetry.dll
+C:\Users\trung\source\repos\Symmetry\Symmetry\bin\Debug\netcoreapp3.1\Symmetry.pdb
+C:\Users\trung\source\repos\Symmetry\Symmetry\obj\Debug\netcoreapp3.1\Symmetry.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\Symmetry\Symmetry\obj\Debug\netcoreapp3.1\Symmetry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\source\repos\Symmetry\Symmetry\obj\Debug\netcoreapp3.1\Symmetry.AssemblyInfoInputs.cache
+C:\Users\trung\source\repos\Symmetry\Symmetry\obj\Debug\netcoreapp3.1\Symmetry.AssemblyInfo.cs
+C:\Users\trung\source\repos\Symmetry\Symmetry\obj\Debug\netcoreapp3.1\Symmetry.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\Symmetry\Symmetry\obj\Debug\netcoreapp3.1\Symmetry.dll
+C:\Users\trung\source\repos\Symmetry\Symmetry\obj\Debug\netcoreapp3.1\Symmetry.pdb
+C:\Users\trung\source\repos\Symmetry\Symmetry\obj\Debug\netcoreapp3.1\Symmetry.genruntimeconfig.cache
